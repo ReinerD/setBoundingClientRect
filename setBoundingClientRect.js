@@ -1,5 +1,6 @@
 /**
 Author Philipp Schmidt | http://www.knutschmidt.de
+<a href="http://lab.knutschmidt.de/geogebra/">see: lab.knutschmidt.de/geogebra/</a>see: 
 
 usage: this is missing setter counterpart for 
 getBoundingClientRect(); Just take a reference to
